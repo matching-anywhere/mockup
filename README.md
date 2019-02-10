@@ -48,8 +48,8 @@ https://github.com/Ramotion
 # バックエンド
 ## Firebase
 サーバーレスでアプリを素早くリリースできる。
-- [Firebaseとは] (https://www.topgate.co.jp/firebase01-what-is-firebase)
-- [firebaseサイト] (https://firebase.google.com/)
+- [Firebaseとは](https://www.topgate.co.jp/firebase01-what-is-firebase)
+- [firebaseサイト](https://firebase.google.com/)
 
 ## Python
 
